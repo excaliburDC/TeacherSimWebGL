@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "679013545697",
+    "firebase_url": "https://teacher-simulator-e0087.firebaseio.com",
+    "project_id": "teacher-simulator-e0087",
+    "storage_bucket": "teacher-simulator-e0087.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679013545697:android:bff6bf38962fd51ccca9a0",
+        "android_client_info": {
+          "package_name": "com.syubestgames.teachersimulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679013545697-r32vo0l9t51mpo1ns3icgn8lr37c6l6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEJvJPiCy80heWbat5PJwd7kkZX54eLlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679013545697-r32vo0l9t51mpo1ns3icgn8lr37c6l6s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "679013545697-8g81ktjoa57bnacd7pbr45a906vmd6sb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.syubestgames.teachersimulator"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-3137017834535338~6081699215"
+    }
+  ],
+  "configuration_version": "1"
+}
