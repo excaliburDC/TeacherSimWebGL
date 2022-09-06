@@ -1,0 +1,16 @@
+{
+"companyName": "Syu Bestgames",
+"productName": "TeacherSimulator",
+"productVersion": "0.1",
+"dataUrl": "472fc940216a212f9ae2933922424648.unityweb",
+"wasmCodeUrl": "8221e872257cc55d18dc3d07e8500446.unityweb",
+"wasmFrameworkUrl": "6ee161a5a1a14691273057e691793331.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFCB05",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.23f1"
+}
